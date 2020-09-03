@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(I.jpg);height: 130vh;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+ul{
+    float:right;
+    list-style-type: none;
+    margin-top: 15px;
+}
+ul li{
+    display: inline-block;
+}
+ ul li a{
+    padding: 5px 20px;
+    text-decoration: none;
+    color:greenyellow;
+    border: 1px solid #000;
+    transition: 1s ease;
+ }
+  ul li a:hover{
+    background-color:yellow;
+    color: #000;
+}
+ul li.active{
+    background-color:#000;
+    color:yellow;
+}
+
+.logo img{
+    
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+
+.A h1 { 
+ font-size: 80px; 
+ color: blueviolet;  
+}
+
+th,td{
+    border: #000 solid 1px;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    padding-left:10px ;
+}
