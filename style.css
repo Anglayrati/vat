@@ -4,27 +4,27 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(I.jpg);height: 130vh;
+    background-image: url(pictures/I.jpg);height: 130vh;
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
 }
-ul{
+ .vet ul{
     float:right;
     list-style-type: none;
-    margin-top: 15px;
+    margin-top: 20px;
 }
-ul li{
+ .vet ul li{
     display: inline-block;
 }
- ul li a{
-    padding: 5px 20px;
+  .vet ul li a{
+    padding: 7px 20px;
     text-decoration: none;
     color:greenyellow;
-    border: 1px solid #000;
-    transition: 1s ease;
+    border: 3px solid #000;
+    transition: 2s ease;
  }
-  ul li a:hover{
+ .vet ul li a:hover{
     background-color:yellow;
     color: #000;
 }
@@ -42,7 +42,7 @@ ul li.active{
 
 
 .A h1 { 
- font-size: 80px; 
+ font-size: 73px; 
  color: blueviolet;  
 }
 
@@ -54,4 +54,29 @@ table{
 }
 td{
     padding-left:10px ;
+}
+
+.container{
+    display: inline-block;
+    width: 40px;height: 40px;
+}
+.baby ul{
+    float:right;
+    list-style-type: none;
+    margin-top: 30px;
+    
+}
+.baby ul li{
+    display: inline-block;
+}
+.baby ul li a{
+    padding: 10px 52px;
+    text-decoration: none;
+    color:royalblue;
+    border: 3px solid red;
+    transition: 2s ease;
+ }
+ .baby ul li a:hover{
+    background-color:#000;
+    color:greenyellow;
 }
