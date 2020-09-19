@@ -6,11 +6,11 @@
     margin-right: auto;
 }
 .b{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1030px;
+    height: 1030px;
+    margin: 20px;
     display: inline-block;
-     background-size: cover;
+     background-size:contain;
      background-repeat: no-repeat;
 }
 
@@ -22,9 +22,9 @@
     margin-right: auto;
 }
 .bi{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1030px;
+    height: 1030px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
@@ -38,9 +38,9 @@
     margin-right: auto;
 }
 .c{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1035px;
+    height: 1035px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
@@ -54,9 +54,9 @@
     margin-right: auto;
 }
 .d{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:770px;
+    height: 770px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
@@ -70,9 +70,9 @@
     margin-right: auto;
 }
 .co{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1030px;
+    height: 1030px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
@@ -86,9 +86,9 @@
     margin-right: auto;
 }
 .m{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1030px;
+    height: 1030px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
@@ -102,9 +102,9 @@
     margin-right: auto;
 }
 .p{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1030px;
+    height: 1030px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
@@ -118,9 +118,9 @@
     margin-right: auto;
 }
 .r{
-    width:1000px;
-    height: 1000px;
-    margin: 10px;
+    width:1030px;
+    height: 1030px;
+    margin: 15px;
     display: inline-block;
      background-size: cover;
      background-repeat: no-repeat;
